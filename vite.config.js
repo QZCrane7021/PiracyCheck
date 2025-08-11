@@ -15,5 +15,6 @@ export default defineConfig({
       '@': fileURLToPath(new URL('./src', import.meta.url))
     },
   },
+  site:"https://qzcrane7021.github.io",
   base:"/piracycheck",
 })
